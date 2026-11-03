@@ -20,13 +20,9 @@ Full Stack Developer experienced in designing and delivering applications across
 ![SQL Server](https://img.shields.io/badge/SQL_Server-21262D?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-21262D?style=flat&logo=electron&logoColor=white)
 
----
-
 ## What I'm Focused On
 
 Enterprise software architecture · System integrations · Performance optimization · AI technologies
-
----
 
 ## ⚡ Fun Fact
 
