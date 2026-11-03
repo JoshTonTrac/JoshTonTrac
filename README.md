@@ -5,8 +5,6 @@
 
 Building scalable web applications, reliable backend services, and modern enterprise solutions.
 
----
-
 ## About Me
 
 Full Stack Developer experienced in designing and delivering applications across frontend, backend, and database technologies.
