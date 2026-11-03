@@ -25,3 +25,10 @@ Full Stack Developer experienced in designing and delivering applications across
 ## What I'm Focused On
 
 Enterprise software architecture · System integrations · Performance optimization · AI technologies
+
+---
+
+## ⚡ Fun Fact
+
+99% of my bugs are caused by the person who wrote the code. Unfortunately, I know the guy.
+
