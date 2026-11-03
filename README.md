@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**JoshTonTrac/JoshTonTrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Joshua Eales
 
-Here are some ideas to get you started:
+### 🟠 Full Stack Developer | Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable web applications, reliable backend services, and modern enterprise solutions.
+
+---
+
+## About Me
+
+Full Stack Developer experienced in designing and delivering applications across frontend, backend, and database technologies.
+
+## Core Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-21262D?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-21262D?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-21262D?style=flat&logo=nodedotjs&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-21262D?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-21262D?style=flat&logo=electron&logoColor=white)
+
+---
+
+## What I'm Focused On
+
+Enterprise software architecture · System integrations · Performance optimization · AI technologies
